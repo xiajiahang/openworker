@@ -1,0 +1,23 @@
+{
+  "source_commit": "7e20213",
+  "server": "hub-gmail-thresholdstack",
+  "offered_tools": 2,
+  "registered_tools": 1,
+  "schema_names": [
+    "mcp__hub-gmail-thresholdstack__gmail-thresholdstack__get_gmail_m"
+  ],
+  "calls": [
+    {
+      "full_name": "mcp__hub-gmail-thresholdstack__gmail-thresholdstack__get_gmail_message_content",
+      "result": {
+        "error": "'Tool not registered: mcp__hub-gmail-thresholdstack__gmail-thresholdstack__get_gmail_message_content'"
+      }
+    },
+    {
+      "full_name": "mcp__hub-gmail-thresholdstack__gmail-thresholdstack__get_gmail_messages_content_batch",
+      "result": {
+        "error": "'Tool not registered: mcp__hub-gmail-thresholdstack__gmail-thresholdstack__get_gmail_messages_content_batch'"
+      }
+    }
+  ]
+}

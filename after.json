@@ -1,0 +1,26 @@
+{
+  "source_commit": "7e20213",
+  "server": "hub-gmail-thresholdstack",
+  "offered_tools": 2,
+  "registered_tools": 2,
+  "schema_names": [
+    "mcp__hub-gmail-thresholdstack__gmail-thresholdstack_af9365b66e1c",
+    "mcp__hub-gmail-thresholdstack__gmail-thresholdstack_337202c77265"
+  ],
+  "calls": [
+    {
+      "full_name": "mcp__hub-gmail-thresholdstack__gmail-thresholdstack__get_gmail_message_content",
+      "result": {
+        "remote_tool": "gmail-thresholdstack__get_gmail_message_content",
+        "message_id": "123"
+      }
+    },
+    {
+      "full_name": "mcp__hub-gmail-thresholdstack__gmail-thresholdstack__get_gmail_messages_content_batch",
+      "result": {
+        "remote_tool": "gmail-thresholdstack__get_gmail_messages_content_batch",
+        "message_id": "123"
+      }
+    }
+  ]
+}
